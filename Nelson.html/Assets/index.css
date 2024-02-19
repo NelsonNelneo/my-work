@@ -1,0 +1,18 @@
+/**Element Selector**/
+p{
+    color: rgb(255, 115, 0);
+    font-size: 20px;
+}
+
+/**id selector**/
+#footer-p{
+    font-size: 50px;
+    color: rgb(22, 235, 15);
+}
+
+/**class selector**/
+.title{
+    font-size: 25px;
+    font-weight: 800;
+    text-decoration: underline;
+}
